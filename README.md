@@ -17,4 +17,4 @@
 - To show the Cart details to the user. --> [cartView]
 
 ### Indexing
--  Created unique clustured indexex on the Products and Categories View, i.e (productsAndCategoryView). --> [indx_productsAndCategoryView]
+-  Created unique clustured indexex on the Products and Categories View, i.e on productsAndCategoryView. --> [indx_productsAndCategoryView]
